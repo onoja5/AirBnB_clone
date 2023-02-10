@@ -1,5 +1,6 @@
-# AirBnB Clone Project
-![AirBnB Logo] https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T103711Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c74f59a3de973aa60d9983ada1cda752f333aac59e077ac64d7db74ead816900
+# The AirBnB Clone Project
+
+![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
 ### Contents
 
@@ -80,23 +81,4 @@ HBnB -AirBnB version
 ### Authors :peers:
 * Michael Onoja - @onoja5
 * Lydia Nwaizu - @Lydiva
-
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 
